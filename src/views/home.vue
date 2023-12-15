@@ -62,7 +62,8 @@ import {
   tabBar,
   follow,
   suspension,
-  squaregrid
+  squaregrid,
+  shoppingcart
 } from 'components/componentscom'
 export default {
   name: 'shop',
@@ -192,7 +193,8 @@ export default {
     tabBar,
     follow,
     suspension,
-    squaregrid
+    squaregrid,
+    shoppingcart
   }
 }
 </script>
